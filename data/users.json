@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "email": "john@example.com",
+    "password": "$2a$12$KQcx.cykpyUvmgikaX10b.p/HU0PxPffOuxZxWYKQaF/3OZ5WVBWy",
+    "role": "employee"
+  },
+  {
+    "id": 2,
+    "name": "Mike Johnson",
+    "email": "mike@example.com",
+    "password": "$2a$12$KQcx.cykpyUvmgikaX10b.p/HU0PxPffOuxZxWYKQaF/3OZ5WVBWy",
+    "role": "employee"
+  }
+]

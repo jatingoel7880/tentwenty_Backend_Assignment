@@ -1,0 +1,796 @@
+[
+  {
+    "id": 1,
+    "userId": 1,
+    "weekStarting": "2025-09-01",
+    "weekEnding": "2025-09-07",
+    "totalHours": 40,
+    "entries": [
+      {
+        "id": 1,
+        "date": "2025-09-01",
+        "hours": 8,
+        "description": "Frontend Development",
+        "project": "TenTwenty App"
+      },
+      {
+        "id": 2,
+        "date": "2025-09-02",
+        "hours": 8,
+        "description": "API Integration",
+        "project": "TenTwenty App"
+      },
+      {
+        "id": 3,
+        "date": "2025-09-03",
+        "hours": 8,
+        "description": "Database Design",
+        "project": "TenTwenty App"
+      },
+      {
+        "id": 4,
+        "date": "2025-09-04",
+        "hours": 8,
+        "description": "Testing & Debugging",
+        "project": "TenTwenty App"
+      },
+      {
+        "id": 5,
+        "date": "2025-09-05",
+        "hours": 8,
+        "description": "Code Review",
+        "project": "TenTwenty App"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "userId": 1,
+    "weekStarting": "2025-09-08",
+    "weekEnding": "2025-09-14",
+    "totalHours": 35,
+    "entries": [
+      {
+        "id": 6,
+        "date": "2025-09-08",
+        "hours": 8,
+        "description": "UI/UX Improvements",
+        "project": "TenTwenty App"
+      },
+      {
+        "id": 7,
+        "date": "2025-09-09",
+        "hours": 8,
+        "description": "Performance Optimization",
+        "project": "TenTwenty App"
+      },
+      {
+        "id": 8,
+        "date": "2025-09-10",
+        "hours": 8,
+        "description": "Security Implementation",
+        "project": "TenTwenty App"
+      },
+      {
+        "id": 9,
+        "date": "2025-09-11",
+        "hours": 8,
+        "description": "Deployment Setup",
+        "project": "TenTwenty App"
+      },
+      {
+        "id": 10,
+        "date": "2025-09-12",
+        "hours": 3,
+        "description": "Meeting & Planning",
+        "project": "TenTwenty App"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "userId": 1,
+    "weekStarting": "2025-09-15",
+    "weekEnding": "2025-09-21",
+    "totalHours": 27,
+    "entries": [
+      {
+        "id": 11,
+        "date": "2025-09-15",
+        "hours": 3,
+        "description": "Feature Development",
+        "project": "TenTwenty App"
+      },
+      {
+        "id": 12,
+        "date": "2025-09-16",
+        "hours": 8,
+        "description": "Bug Fixes",
+        "project": "TenTwenty App"
+      },
+      {
+        "id": 13,
+        "date": "2025-09-17",
+        "hours": 8,
+        "description": "Code Refactoring",
+        "project": "TenTwenty App"
+      },
+      {
+        "id": 14,
+        "date": "2025-09-18",
+        "hours": 8,
+        "description": "Documentation",
+        "project": "TenTwenty App"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "userId": 1,
+    "weekStarting": "2025-09-22",
+    "weekEnding": "2025-09-28",
+    "totalHours": 0,
+    "entries": [
+      {
+        "id": 19,
+        "date": "2025-09-26",
+        "hours": 0,
+        "description": "Homepage Development",
+        "project": "Project Name"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "userId": 1,
+    "weekStarting": "2025-09-29",
+    "weekEnding": "2025-10-05",
+    "totalHours": 36,
+    "entries": [
+      {
+        "id": 20,
+        "date": "2025-09-29",
+        "hours": 8,
+        "description": "Sprint Planning",
+        "project": "TenTwenty App"
+      },
+      {
+        "id": 21,
+        "date": "2025-09-30",
+        "hours": 8,
+        "description": "Client Meeting",
+        "project": "TenTwenty App"
+      },
+      {
+        "id": 22,
+        "date": "2025-10-01",
+        "hours": 8,
+        "description": "Backend API",
+        "project": "TenTwenty App"
+      },
+      {
+        "id": 23,
+        "date": "2025-10-02",
+        "hours": 8,
+        "description": "Testing",
+        "project": "TenTwenty App"
+      },
+      {
+        "id": 24,
+        "date": "2025-10-03",
+        "hours": 4,
+        "description": "Documentation",
+        "project": "TenTwenty App"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "userId": 1,
+    "weekStarting": "2025-10-06",
+    "weekEnding": "2025-10-12",
+    "totalHours": 40,
+    "entries": [
+      {
+        "id": 25,
+        "date": "2025-10-06",
+        "hours": 8,
+        "description": "Release Prep",
+        "project": "TenTwenty App"
+      },
+      {
+        "id": 26,
+        "date": "2025-10-07",
+        "hours": 8,
+        "description": "Release",
+        "project": "TenTwenty App"
+      },
+      {
+        "id": 27,
+        "date": "2025-10-08",
+        "hours": 8,
+        "description": "Support",
+        "project": "TenTwenty App"
+      },
+      {
+        "id": 28,
+        "date": "2025-10-09",
+        "hours": 8,
+        "description": "Bug Fixes",
+        "project": "TenTwenty App"
+      },
+      {
+        "id": 29,
+        "date": "2025-10-10",
+        "hours": 8,
+        "description": "Retrospective",
+        "project": "TenTwenty App"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "userId": 1,
+    "weekStarting": "2025-10-13",
+    "weekEnding": "2025-10-19",
+    "totalHours": 38,
+    "entries": [
+      {
+        "id": 30,
+        "date": "2025-10-13",
+        "hours": 8,
+        "description": "Design Review",
+        "project": "TenTwenty App"
+      },
+      {
+        "id": 31,
+        "date": "2025-10-14",
+        "hours": 8,
+        "description": "API Review",
+        "project": "TenTwenty App"
+      },
+      {
+        "id": 32,
+        "date": "2025-10-15",
+        "hours": 8,
+        "description": "Testing",
+        "project": "TenTwenty App"
+      },
+      {
+        "id": 33,
+        "date": "2025-10-16",
+        "hours": 8,
+        "description": "Deployment",
+        "project": "TenTwenty App"
+      },
+      {
+        "id": 34,
+        "date": "2025-10-17",
+        "hours": 6,
+        "description": "Team Meeting",
+        "project": "TenTwenty App"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "userId": 2,
+    "weekStarting": "2025-09-01",
+    "weekEnding": "2025-09-07",
+    "totalHours": 0,
+    "entries": [
+      {
+        "id": 35,
+        "date": "2025-09-01",
+        "hours": "",
+        "description": "Frontend Development",
+        "project": "Project X"
+      },
+      {
+        "id": 36,
+        "date": "2025-09-02",
+        "hours": "",
+        "description": "API Integration",
+        "project": "Project X"
+      },
+      {
+        "id": 37,
+        "date": "2025-09-03",
+        "hours": "",
+        "description": "Database Design",
+        "project": "Project X"
+      },
+      {
+        "id": 38,
+        "date": "2025-09-04",
+        "hours": "",
+        "description": "Testing",
+        "project": "Project X"
+      },
+      {
+        "id": 39,
+        "date": "2025-09-05",
+        "hours": "",
+        "description": "Code Review",
+        "project": "Project X"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "userId": 2,
+    "weekStarting": "2025-09-08",
+    "weekEnding": "2025-09-14",
+    "totalHours": 38,
+    "entries": [
+      {
+        "id": 40,
+        "date": "2025-09-08",
+        "hours": 8,
+        "description": "UI/UX Improvements",
+        "project": "Project X"
+      },
+      {
+        "id": 41,
+        "date": "2025-09-09",
+        "hours": 8,
+        "description": "Performance Optimization",
+        "project": "Project X"
+      },
+      {
+        "id": 42,
+        "date": "2025-09-10",
+        "hours": 8,
+        "description": "Security Implementation",
+        "project": "Project X"
+      },
+      {
+        "id": 43,
+        "date": "2025-09-11",
+        "hours": 8,
+        "description": "Deployment Setup",
+        "project": "Project X"
+      },
+      {
+        "id": 44,
+        "date": "2025-09-12",
+        "hours": 6,
+        "description": "Meeting & Planning",
+        "project": "Project X"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "userId": 2,
+    "weekStarting": "2025-09-15",
+    "weekEnding": "2025-09-21",
+    "totalHours": 32,
+    "entries": [
+      {
+        "id": 45,
+        "date": "2025-09-15",
+        "hours": 8,
+        "description": "Feature Development",
+        "project": "Project X"
+      },
+      {
+        "id": 46,
+        "date": "2025-09-16",
+        "hours": 8,
+        "description": "Bug Fixes",
+        "project": "Project X"
+      },
+      {
+        "id": 47,
+        "date": "2025-09-17",
+        "hours": 8,
+        "description": "Code Refactoring",
+        "project": "Project X"
+      },
+      {
+        "id": 48,
+        "date": "2025-09-18",
+        "hours": 8,
+        "description": "Documentation",
+        "project": "Project X"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "userId": 2,
+    "weekStarting": "2025-09-22",
+    "weekEnding": "2025-09-28",
+    "totalHours": 40,
+    "entries": [
+      {
+        "id": 49,
+        "date": "2025-09-22",
+        "hours": 8,
+        "description": "Homepage Development",
+        "project": "Project X"
+      },
+      {
+        "id": 50,
+        "date": "2025-09-23",
+        "hours": 8,
+        "description": "Homepage Development",
+        "project": "Project X"
+      },
+      {
+        "id": 51,
+        "date": "2025-09-24",
+        "hours": 8,
+        "description": "Homepage Development",
+        "project": "Project X"
+      },
+      {
+        "id": 52,
+        "date": "2025-09-25",
+        "hours": 8,
+        "description": "Homepage Development",
+        "project": "Project X"
+      },
+      {
+        "id": 53,
+        "date": "2025-09-26",
+        "hours": 8,
+        "description": "Homepage Development",
+        "project": "Project X"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "userId": 2,
+    "weekStarting": "2025-09-29",
+    "weekEnding": "2025-10-05",
+    "totalHours": 36,
+    "entries": [
+      {
+        "id": 54,
+        "date": "2025-09-29",
+        "hours": 8,
+        "description": "Sprint Planning",
+        "project": "Project X"
+      },
+      {
+        "id": 55,
+        "date": "2025-09-30",
+        "hours": 8,
+        "description": "Client Meeting",
+        "project": "Project X"
+      },
+      {
+        "id": 56,
+        "date": "2025-10-01",
+        "hours": 8,
+        "description": "Backend API",
+        "project": "Project X"
+      },
+      {
+        "id": 57,
+        "date": "2025-10-02",
+        "hours": 8,
+        "description": "Testing",
+        "project": "Project X"
+      },
+      {
+        "id": 58,
+        "date": "2025-10-03",
+        "hours": 4,
+        "description": "Documentation",
+        "project": "Project X"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "userId": 2,
+    "weekStarting": "2025-10-06",
+    "weekEnding": "2025-10-12",
+    "totalHours": 40,
+    "entries": [
+      {
+        "id": 59,
+        "date": "2025-10-06",
+        "hours": 8,
+        "description": "Release Prep",
+        "project": "Project X"
+      },
+      {
+        "id": 60,
+        "date": "2025-10-07",
+        "hours": 8,
+        "description": "Release",
+        "project": "Project X"
+      },
+      {
+        "id": 61,
+        "date": "2025-10-08",
+        "hours": 8,
+        "description": "Support",
+        "project": "Project X"
+      },
+      {
+        "id": 62,
+        "date": "2025-10-09",
+        "hours": 8,
+        "description": "Bug Fixes",
+        "project": "Project X"
+      },
+      {
+        "id": 63,
+        "date": "2025-10-10",
+        "hours": 8,
+        "description": "Retrospective",
+        "project": "Project X"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "userId": 2,
+    "weekStarting": "2025-10-13",
+    "weekEnding": "2025-10-19",
+    "totalHours": 38,
+    "entries": [
+      {
+        "id": 64,
+        "date": "2025-10-13",
+        "hours": 8,
+        "description": "Design Review",
+        "project": "Project X"
+      },
+      {
+        "id": 65,
+        "date": "2025-10-14",
+        "hours": 8,
+        "description": "API Review",
+        "project": "Project X"
+      },
+      {
+        "id": 66,
+        "date": "2025-10-15",
+        "hours": 8,
+        "description": "Testing",
+        "project": "Project X"
+      },
+      {
+        "id": 67,
+        "date": "2025-10-16",
+        "hours": 8,
+        "description": "Deployment",
+        "project": "Project X"
+      },
+      {
+        "id": 68,
+        "date": "2025-10-17",
+        "hours": 6,
+        "description": "Team Meeting",
+        "project": "Project X"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "userId": 2,
+    "weekStarting": "2025-10-20",
+    "weekEnding": "2025-10-26",
+    "totalHours": 40,
+    "entries": [
+      {
+        "id": 69,
+        "date": "2025-10-20",
+        "hours": 8,
+        "description": "Sprint Review",
+        "project": "Project X"
+      },
+      {
+        "id": 70,
+        "date": "2025-10-21",
+        "hours": 8,
+        "description": "Planning",
+        "project": "Project X"
+      },
+      {
+        "id": 71,
+        "date": "2025-10-22",
+        "hours": 8,
+        "description": "Development",
+        "project": "Project X"
+      },
+      {
+        "id": 72,
+        "date": "2025-10-23",
+        "hours": 8,
+        "description": "Testing",
+        "project": "Project X"
+      },
+      {
+        "id": 73,
+        "date": "2025-10-24",
+        "hours": 8,
+        "description": "Release",
+        "project": "Project X"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "userId": 2,
+    "weekStarting": "2025-10-27",
+    "weekEnding": "2025-11-02",
+    "totalHours": 36,
+    "entries": [
+      {
+        "id": 74,
+        "date": "2025-10-27",
+        "hours": 8,
+        "description": "Support",
+        "project": "Project X"
+      },
+      {
+        "id": 75,
+        "date": "2025-10-28",
+        "hours": 8,
+        "description": "Bug Fixes",
+        "project": "Project X"
+      },
+      {
+        "id": 76,
+        "date": "2025-10-29",
+        "hours": 8,
+        "description": "Documentation",
+        "project": "Project X"
+      },
+      {
+        "id": 77,
+        "date": "2025-10-30",
+        "hours": 8,
+        "description": "Retrospective",
+        "project": "Project X"
+      },
+      {
+        "id": 78,
+        "date": "2025-10-31",
+        "hours": 4,
+        "description": "Team Meeting",
+        "project": "Project X"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "userId": 2,
+    "weekStarting": "2025-11-03",
+    "weekEnding": "2025-11-09",
+    "totalHours": 40,
+    "entries": [
+      {
+        "id": 79,
+        "date": "2025-11-03",
+        "hours": 8,
+        "description": "Design",
+        "project": "Project X"
+      },
+      {
+        "id": 80,
+        "date": "2025-11-04",
+        "hours": 8,
+        "description": "Development",
+        "project": "Project X"
+      },
+      {
+        "id": 81,
+        "date": "2025-11-05",
+        "hours": 8,
+        "description": "Testing",
+        "project": "Project X"
+      },
+      {
+        "id": 82,
+        "date": "2025-11-06",
+        "hours": 8,
+        "description": "Deployment",
+        "project": "Project X"
+      },
+      {
+        "id": 83,
+        "date": "2025-11-07",
+        "hours": 8,
+        "description": "Release",
+        "project": "Project X"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "userId": 2,
+    "weekStarting": "2025-11-10",
+    "weekEnding": "2025-11-16",
+    "totalHours": 38,
+    "entries": [
+      {
+        "id": 84,
+        "date": "2025-11-10",
+        "hours": 8,
+        "description": "Planning",
+        "project": "Project X"
+      },
+      {
+        "id": 85,
+        "date": "2025-11-11",
+        "hours": 8,
+        "description": "Development",
+        "project": "Project X"
+      },
+      {
+        "id": 86,
+        "date": "2025-11-12",
+        "hours": 8,
+        "description": "Testing",
+        "project": "Project X"
+      },
+      {
+        "id": 87,
+        "date": "2025-11-13",
+        "hours": 8,
+        "description": "Bug Fixes",
+        "project": "Project X"
+      },
+      {
+        "id": 88,
+        "date": "2025-11-14",
+        "hours": 6,
+        "description": "Documentation",
+        "project": "Project X"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "userId": 2,
+    "weekStarting": "2025-11-17",
+    "weekEnding": "2025-11-23",
+    "totalHours": 40,
+    "entries": [
+      {
+        "id": 89,
+        "date": "2025-11-17",
+        "hours": 8,
+        "description": "Support",
+        "project": "Project X"
+      },
+      {
+        "id": 90,
+        "date": "2025-11-18",
+        "hours": 8,
+        "description": "Retrospective",
+        "project": "Project X"
+      },
+      {
+        "id": 91,
+        "date": "2025-11-19",
+        "hours": 8,
+        "description": "Team Meeting",
+        "project": "Project X"
+      },
+      {
+        "id": 92,
+        "date": "2025-11-20",
+        "hours": 8,
+        "description": "Design Review",
+        "project": "Project X"
+      },
+      {
+        "id": 93,
+        "date": "2025-11-21",
+        "hours": 8,
+        "description": "API Review",
+        "project": "Project X"
+      }
+    ]
+  }
+]
